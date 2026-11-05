@@ -1,0 +1,9 @@
+{
+  "name": "chocos-bombparty",
+  "version": "1.0.0",
+  "description": "Choco's BombParty - a multiplayer word bomb party game",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" },
+  "engines": { "node": ">=18" }
+}
